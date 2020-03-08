@@ -1,0 +1,2 @@
+(this.webpackJsonpmachive=this.webpackJsonpmachive||[]).push([[9],{65:function(e,t,a){"use strict";a.r(t);var c=a(9),n=a(0),r=a.n(n),u=a(18);t.default=function(){var e=Object(n.useContext)(u.a).currPage,t=Object(c.a)(e,2),a=(t[0],t[1]);return Object(n.useEffect)((function(){a("explore")})),r.a.createElement(r.a.Fragment,null)}}}]);
+//# sourceMappingURL=9.cdf80cf3.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpmachive=this.webpackJsonpmachive||[]).push([[10],{66:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a);n.default=function(){return c.a.createElement(c.a.Fragment,null,c.a.createElement("h1",null,"HISTORY"))}}}]);
+//# sourceMappingURL=10.2c1e71c0.chunk.js.map
